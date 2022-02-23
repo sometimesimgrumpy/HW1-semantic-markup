@@ -1,3 +1,5 @@
 # semantic-markup
 
-This is my first hoemwork for Full Stack Web Devlopment
+This is my first homework for Full Stack Web Development.
+
+This is an mockup website for semantic HTML.
